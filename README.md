@@ -1,16 +1,28 @@
-### Hi there 👋
+<p id="readme-top"></p>
 
-<!--
-**JordennJd/JordennJd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a nineteen year old. I am studing in SUAI university and learning programming and math.  
 
-Here are some ideas to get you started:
+## Languages which i am learning
+- [x] **С#**
+    - [x] Telegram API
+    - [x] ASP.NET
+    - [x] MVC
+- [x] **Java**
+    - [x] Minecraft Development
+      - [x] Bukkit/Spigot/Paper Plugins
+      - [ ] Forge Mods
+      - [ ] Client Development via MCP
+- [ ] **C/C++**
+    - [x] C
+    - [x] C++
+- [x] **Operating Systems**
+    - [x] Windows
+    - [x] Mac 
+   
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Telegram Bot](https://github.com/JordennJd/Telegram_Bot) Schedule tracking bot
+- [Project for engineering school](https://github.com/JordennJd/Personal-Account) - Registration written in MVC technology
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
