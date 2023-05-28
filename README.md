@@ -19,6 +19,7 @@ I'm a nineteen year old. I am studing in SUAI university and learning programmin
 - [x] **Operating Systems**
     - [x] Windows
     - [x] Mac 
+    - [ ] Linux
    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
