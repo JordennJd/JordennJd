@@ -8,18 +8,15 @@ I'm a nineteen year old. I am studing in SUAI university and learning programmin
     - [x] Telegram API
     - [x] ASP.NET
     - [x] MVC
-- [x] **Java**
-    - [x] Minecraft Development
-      - [x] Bukkit/Spigot/Paper Plugins
-      - [ ] Forge Mods
-      - [ ] Client Development via MCP
-- [ ] **C/C++**
+- [x] **C/C++**
     - [x] C
     - [x] C++
 - [x] **Operating Systems**
     - [x] Windows
     - [x] Mac 
     - [ ] Linux
+- [x] **SQL data base**
+    - [x] Mysql
    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
