@@ -1,7 +1,7 @@
 <p id="readme-top"></p>
 
 ## About Me
-I'm a nineteen year old. I am studing in SUAI university and learning programming and math.  
+I'm nineteen year old. I am studing in SUAI university and learning programming and math.  
 
 ## Languages which i am learning
 - [x] **С#**
