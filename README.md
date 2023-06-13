@@ -3,7 +3,7 @@
 ## About Me
 I'm nineteen year old. I study in SUAI university and learn programming and math.  
 
-## Languages which i am learning
+## Languages that i am learning
 - [x] **С#**
     - [x] Telegram API
     - [x] ASP.NET
